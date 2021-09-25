@@ -40,7 +40,7 @@ Pagina Logs este destinata adminstratorului site-ului. Acesta poate verifica act
 ![logs](https://github.com/Gleymt/Proiect-Integrarea-Sistemelor-Informatice/blob/images/images/isi7.png?raw=true)
 
 ### Roluri
-Admin: detine toate drepturile precum dezvoltatorul aplicatiei.
-Angajat: detine drepturi pentru modificarea tranzactiilor si a clientilor.
+Admin: detine toate drepturile precum dezvoltatorul aplicatiei.</br>
+Angajat: detine drepturi pentru modificarea tranzactiilor si a clientilor.</br>
 Client: detine drepturi doar pentru vizualizarea tabelei tranzactii.
 
